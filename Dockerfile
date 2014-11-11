@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ipython/notebook
 MAINTAINER Matt McCormick <matt.mccormick@kitware.com>
 
 RUN apt-get update
